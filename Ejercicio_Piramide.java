@@ -1,5 +1,3 @@
-package ejercicio_piramide;
-
 import java.util.Scanner;
 
 public class Ejercicio_Piramide {
