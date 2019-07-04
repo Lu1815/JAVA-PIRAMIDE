@@ -7,7 +7,6 @@ public class Ejercicio_Piramide {
         int tam; 
         
         do{
-            System.out.println("");
             System.out.print("Digite el tamaño de la piramide: ");
             tam = entrada.nextInt();
             System.out.println("");
@@ -28,6 +27,8 @@ public class Ejercicio_Piramide {
                 }//FIN DE IF
             }
         }while( tam != 0);
+        
+        System.out.println("");
     }
     
 }
